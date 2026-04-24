@@ -1,0 +1,18 @@
+title: "💙 Yanerzaixuexizhongwen 💙"
+description: "哈喽！这是 Yaner 挑战“硬核”中文的成长之旅。我不追光，我就是光。"
+
+# Cấu hình giao diện
+theme: minima
+remote_theme: jekyll/minima
+
+# Khai báo các trang xuất hiện trên Menu
+header_pages:
+  - index.md
+  - blog.md
+  - vocab.md
+  - library.md
+
+# Các plugin hỗ trợ
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
