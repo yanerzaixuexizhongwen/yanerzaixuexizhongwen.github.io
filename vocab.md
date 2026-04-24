@@ -14,5 +14,5 @@ Dưới đây là danh sách từ vựng mình tích lũy mỗi ngày. Cố gắ
 | **挑战** | tiǎozhàn | 动词 | 邀请对方比赛 | Thử thách | 迎接挑战, 充满挑战 | 近: 比赛 | 我们要勇敢地迎接未来的**挑战**。 |
 
 <div style="background-color: #FFDFDF; padding: 15px; border-radius: 10px; border-left: 5px solid #F875AA;">
-  💡 <b>Tip học tập:</b> Khi học <b>搭配 (Dặ phối)</b>, bạn sẽ nhớ từ lâu hơn và biết cách dùng từ tự nhiên như người bản xứ đấy!
+  💡 <b>Tip học tập:</b> Khi học <b>搭配 </b>, bạn sẽ nhớ từ lâu hơn và biết cách dùng từ tự nhiên như người bản xứ đấy!
 </div>
