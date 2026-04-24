@@ -1,0 +1,9 @@
+title: "💙Yanerzaixuexizhongwen💙"
+description: "哈喽！这是 Yaner 挑战“硬核”中文的成长之旅。但我相信：只要不放弃，处处皆有光。我不追光，我就是光。"
+theme: minima
+
+# Cài đặt bổ sung để hiển thị tốt hơn
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
